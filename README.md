@@ -2,3 +2,4 @@ QuickPulse is a fast and reliable news subscription service delivering real-time
 
 
 ![image](https://github.com/user-attachments/assets/c464c759-4278-4467-869c-c200c1c9c514)
+
